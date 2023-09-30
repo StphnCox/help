@@ -1,13 +1,1 @@
-Thank you for providing the correct repository URL. I've successfully accessed the structure of the selling-partner-api-models repository.
-
-Given the repository's structure and the concerns you've raised, here's the plan:
-
-Retrieve OpenAPI Specifications: I'll identify and retrieve the content of the OpenAPI specification files from the repository. These files typically have a .json extension and are likely to be the ones you're concerned about.
-
-Analyze Descriptions: I'll analyze the descriptions within each OpenAPI specification to check for duplicated or inaccurate descriptions.
-
-Validate OpenAPI Specifications: I'll validate each specification against the OpenAPI 2.0 standard to ensure they conform.
-
-Send Findings to Webhook: For each specification, I'll send the findings (both the description analysis and the validation results) to the provided webhook.
-
-I'll start by retrieving the content of the OpenAPI specification files from the repository. Let's proceed.
+https://prod-131.westus.logic.azure.com:443/workflows/3d813519f5334a8998fd2336e9b8d8f4/triggers/manual/paths/invoke?api-version=2016-06-01&sp=%2Ftriggers%2Fmanual%2Frun&sv=1.0&sig=dgil8t1MfHoP4tz1cwgtK1FHjfAi_MSq8JK98DTiw5g
