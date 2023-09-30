@@ -1,0 +1,13 @@
+Thank you for providing the correct repository URL. I've successfully accessed the structure of the selling-partner-api-models repository.
+
+Given the repository's structure and the concerns you've raised, here's the plan:
+
+Retrieve OpenAPI Specifications: I'll identify and retrieve the content of the OpenAPI specification files from the repository. These files typically have a .json extension and are likely to be the ones you're concerned about.
+
+Analyze Descriptions: I'll analyze the descriptions within each OpenAPI specification to check for duplicated or inaccurate descriptions.
+
+Validate OpenAPI Specifications: I'll validate each specification against the OpenAPI 2.0 standard to ensure they conform.
+
+Send Findings to Webhook: For each specification, I'll send the findings (both the description analysis and the validation results) to the provided webhook.
+
+I'll start by retrieving the content of the OpenAPI specification files from the repository. Let's proceed.
